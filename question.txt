@@ -1,6 +1,22 @@
-1 WhoamI?
+4
+1 Which game is Wangshan's favorite?
 4 2
+COD17
+Genshin Impact
+CF
+Rainbow6
+2 Who is he?
+3 2
 noob
 CXK
-LPY
-QS
+Dingzhen
+3 Who is she?
+3 2
+noob
+CXK
+Dingzhen
+4 Who are you?
+3 2
+noob
+CXK
+Dingzhen
